@@ -4,11 +4,12 @@ import "./App.css";
 // import NestingComponent from "./1.Component/NestingComponent";
 // import Jsx from "./2.Jsx/Jsx";
 // import AddingStyle from "./2.Jsx/AddingStyle";
-
-import DisplayingData from "./2.Jsx/DisplayingData";
+// import DisplayingData from "./2.Jsx/DisplayingData";
+import Condition from "./3.Conditional_Rendering/Condition";
 
 function App() {
-  return <DisplayingData/>;
+  return <Condition />;
+  
 }
 
 export default App;
