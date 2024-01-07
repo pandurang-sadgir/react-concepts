@@ -10,3 +10,6 @@ export default function NestingComponent() {
 const Button = () => {
   return <button>Child Component Button nested</button>;
 };
+ 
+
+// Note: Always devide large component into small components 
