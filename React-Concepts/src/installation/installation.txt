@@ -1,0 +1,11 @@
+Insatll following software:
+1. Node js
+2. vite intallation
+        npm create vite@latest
+        npm Insatll
+        cd projectName
+        npm run dev 
+3. Or npx create-react-app projectName
+        cd projectName
+        npm start
+
