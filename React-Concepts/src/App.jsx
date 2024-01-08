@@ -5,11 +5,10 @@ import "./App.css";
 // import Jsx from "./2.Jsx/Jsx";
 // import AddingStyle from "./2.Jsx/AddingStyle";
 // import DisplayingData from "./2.Jsx/DisplayingData";
-import Condition from "./3.Conditional_Rendering/Condition";
-
+// import Condition from "./3.Conditional_Rendering/Condition";
+import RenderingList from "./4.Rendering_List/RenderingList_";
 function App() {
-  return <Condition />;
-  
+  return <RenderingList />;
 }
 
 export default App;

@@ -3,26 +3,25 @@
 
 export default function Condition() {
   let isValidUser = true;
-//   let component ;
-//1.  Using if condition 
-//   if (isValidUser) {
-//     // console.log(<SignIn />);
-//     component = <SignIn />;
-//   } else {
-//     component = <SignUp />;
-//   }
-//   return component;
+  //   let component ;
+  //1.  Using if condition
+  //   if (isValidUser) {
+  //     // console.log(<SignIn />);
+  //     component = <SignIn />;
+  //   } else {
+  //     component = <SignUp />;
+  //   }
+  //   return component;
 
-// return (
-//     isValidUser? (<SignIn/>):<SignUp/>
-// )
-return (
+  // return (
+  //     isValidUser? (<SignIn/>):<SignUp/>
+  // )
+  return (
     <>
-
-        {isValidUser && <SignIn/>}
-        {!isValidUser && <SignUp/>}
+      {isValidUser && <SignIn />}
+      {!isValidUser && <SignUp />}
     </>
-)
+  );
 }
 
 const SignIn = () => {
