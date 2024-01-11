@@ -7,9 +7,17 @@ import "./App.css";
 // import DisplayingData from "./2.Jsx/DisplayingData";
 // import Condition from "./3.Conditional_Rendering/Condition";
 // import RenderingList from "./4.Rendering_List/RenderingList_";
-import RespondingEvent from "./6.Responding_Event/RespondingEvent";
+import InfoSeparately from "./5.ComponentRemInfo/InfoSeparately";
+// import RespondingEvent from "./6.Responding_Event/RespondingEvent";
 function App() {
-  return <RespondingEvent />;
+  return (
+    <>
+      <InfoSeparately />
+      <br />
+      <br />
+      <InfoSeparately />
+    </>
+  );
 }
 
 export default App;
