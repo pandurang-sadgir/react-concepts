@@ -7,15 +7,13 @@ import "./App.css";
 // import DisplayingData from "./2.Jsx/DisplayingData";
 // import Condition from "./3.Conditional_Rendering/Condition";
 // import RenderingList from "./4.Rendering_List/RenderingList_";
-import InfoSeparately from "./5.ComponentRemInfo/InfoSeparately";
+// import InfoSeparately from "./5.ComponentRemInfo/InfoSeparately";
+import SharingDataBetC from "./5.ComponentRemInfo/SharingDataBetC";
 // import RespondingEvent from "./6.Responding_Event/RespondingEvent";
 function App() {
   return (
     <>
-      <InfoSeparately />
-      <br />
-      <br />
-      <InfoSeparately />
+      <SharingDataBetC/>
     </>
   );
 }
