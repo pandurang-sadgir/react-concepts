@@ -8,12 +8,17 @@ import "./App.css";
 // import Condition from "./3.Conditional_Rendering/Condition";
 // import RenderingList from "./4.Rendering_List/RenderingList_";
 // import InfoSeparately from "./5.ComponentRemInfo/InfoSeparately";
-import SharingDataBetC from "./5.ComponentRemInfo/SharingDataBetC";
+// import SharingDataBetC from "./5.ComponentRemInfo/SharingDataBetC";
 // import RespondingEvent from "./6.Responding_Event/RespondingEvent";
+// Hooks 
+// State Hook
+// import Counter from "./Hooks/StateHooks/UseState/counter";
+import Galary from "./1.Component/Galary";
+// import TextField from "./Hooks/StateHooks/UseState/textField";
 function App() {
   return (
     <>
-      <SharingDataBetC/>
+    <Galary/>
     </>
   );
 }
