@@ -17,11 +17,13 @@ import "./App.css";
 // import TextField from "./Hooks/StateHooks/UseState/textField";
 // import FunctionComponent from "./7.JavaScript_in_JSX/function";
 // import String from "./7.JavaScript_in_JSX/string";
-import FamilierProps from "./8.Passing_props_to_component/FamilierProps";
+// import FamilierProps from "./8.Passing_props_to_component/FamilierProps";
+import PassingPropstoComponent from "./8.Passing_props_to_component/PassingPropstoComponent";
+
 function App() {
   return (
     <>
-    <FamilierProps/>
+    <PassingPropstoComponent/>
     </>
   );
 }
