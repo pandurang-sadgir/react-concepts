@@ -13,12 +13,14 @@ import "./App.css";
 // Hooks 
 // State Hook
 // import Counter from "./Hooks/StateHooks/UseState/counter";
-import Galary from "./1.Component/Galary";
+// import Galary from "./1.Component/Galary";
 // import TextField from "./Hooks/StateHooks/UseState/textField";
+// import FunctionComponent from "./7.JavaScript_in_JSX/function";
+import String from "./7.JavaScript_in_JSX/string";
 function App() {
   return (
     <>
-    <Galary/>
+    <String/>
     </>
   );
 }
