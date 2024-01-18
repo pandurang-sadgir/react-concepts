@@ -18,12 +18,15 @@ import "./App.css";
 // import FunctionComponent from "./7.JavaScript_in_JSX/function";
 // import String from "./7.JavaScript_in_JSX/string";
 // import FamilierProps from "./8.Passing_props_to_component/FamilierProps";
-import PassingPropstoComponent from "./8.Passing_props_to_component/PassingPropstoComponent";
+// import PassingPropstoComponent from "./8.Passing_props_to_component/PassingPropstoComponent";
+
+import Forwarding_props_with_jsx from "./8.Passing_props_to_component/Forwarding_props_with_jsx";
+
 
 function App() {
   return (
     <>
-    <PassingPropstoComponent/>
+    <Forwarding_props_with_jsx/>
     </>
   );
 }
