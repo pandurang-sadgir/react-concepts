@@ -54,7 +54,8 @@ export default function PassingPropstoComponent() {
   );
 }
 
-function Avatar({ imgData, size, radius }) {
+// Defining default value for an props 
+function Avatar({ imgData, size='100px', radius }) {
   console.log(typeof size);
   return (
     <div>
