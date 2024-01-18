@@ -16,11 +16,12 @@ import "./App.css";
 // import Galary from "./1.Component/Galary";
 // import TextField from "./Hooks/StateHooks/UseState/textField";
 // import FunctionComponent from "./7.JavaScript_in_JSX/function";
-import String from "./7.JavaScript_in_JSX/string";
+// import String from "./7.JavaScript_in_JSX/string";
+import FamilierProps from "./8.Passing_props_to_component/FamilierProps";
 function App() {
   return (
     <>
-    <String/>
+    <FamilierProps/>
     </>
   );
 }
