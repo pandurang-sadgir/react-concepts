@@ -22,12 +22,13 @@ import "./App.css";
 
 // import Forwarding_props_with_jsx from "./8.Passing_props_to_component/Forwarding_props_with_jsx";
 
-import Profile from "./8.Passing_props_to_component/childrenProps";
+// import Profile from "./8.Passing_props_to_component/childrenProps";
+import Gallery from "./8.Passing_props_to_component/TryoutSomeChallenges/1/Galary";
 
 function App() {
   return (
     <>
-    <Profile/>
+    <Gallery/>
     </>
   );
 }

@@ -5,6 +5,7 @@ export default function Profile() {
   return (
     <Card>
       <Avatar />
+      <A/>
     </Card>
   );
 }
@@ -35,4 +36,14 @@ function Avatar() {
       />
     </div>
   );
+}
+
+
+ function A() {
+  return (
+    <div>
+    <h2>This is second component</h2>
+      
+    </div>
+  )
 }

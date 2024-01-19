@@ -55,6 +55,18 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+.profile{
+
+  background-color:whitesmoke;
+  text-align: left;
+  padding-left: 1rem;
+}
+
+img{
+  border-radius: 50%;
+  margin-left: 1rem;
+}
+
 
 /* Most import media query logic to theme change */
 /* @media (prefers-color-scheme: light) {
