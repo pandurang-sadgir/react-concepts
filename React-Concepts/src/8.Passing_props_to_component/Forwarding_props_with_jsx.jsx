@@ -1,7 +1,8 @@
 export default function Forwarding_props_with_jsx() {
   return (
     <div>
-      <Acomponent color={"pink"} fontSize={"2rem"} />
+      <Acomponent color={"red"} fontSize={"2rem"} />
+      <Acomponent color={"blue"} fontSize={"2rem"} />
     </div>
   );
 }

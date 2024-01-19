@@ -20,13 +20,14 @@ import "./App.css";
 // import FamilierProps from "./8.Passing_props_to_component/FamilierProps";
 // import PassingPropstoComponent from "./8.Passing_props_to_component/PassingPropstoComponent";
 
-import Forwarding_props_with_jsx from "./8.Passing_props_to_component/Forwarding_props_with_jsx";
+// import Forwarding_props_with_jsx from "./8.Passing_props_to_component/Forwarding_props_with_jsx";
 
+import Profile from "./8.Passing_props_to_component/childrenProps";
 
 function App() {
   return (
     <>
-    <Forwarding_props_with_jsx/>
+    <Profile/>
     </>
   );
 }
