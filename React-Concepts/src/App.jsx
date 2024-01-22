@@ -26,11 +26,12 @@ import "./App.css";
 // import Gallery from "./8.Passing_props_to_component/TryoutSomeChallenges/1/Galary";
 // import Profile from "./8.Passing_props_to_component/TryoutSomeChallenges/2/passingJSXasChildProp";
 // import ListOfItems from "./9.Conditional_Rendering/1";
-import PurchasedItems from "./9.Conditional_Rendering/2UsingIf";
+// import PurchasedItems from "./9.Conditional_Rendering/2UsingIf";
+import PurchasedItem from "./9.Conditional_Rendering/3.usingTernary";
 function App() {
   return (
     <>
-    <PurchasedItems/>
+    <PurchasedItem/>
     </>
   );
 }
