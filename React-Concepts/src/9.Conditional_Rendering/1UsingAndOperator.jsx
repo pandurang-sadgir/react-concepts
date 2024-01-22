@@ -25,7 +25,7 @@ function Item({ name, isPurchased }) {
       }}
     >
       <h1 style={{ fontSize: "1.8rem", outline: "none", border: "none" }}>
-        {name} {isPurchased && <span>✔️</span>}
+        {name} {isPurchased && <span> &#x2713; </span>}
       </h1>
     </div>
   );
