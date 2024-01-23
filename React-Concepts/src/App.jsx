@@ -28,11 +28,12 @@ import "./App.css";
 // import ListOfItems from "./9.Conditional_Rendering/1";
 // import PurchasedItems from "./9.Conditional_Rendering/2UsingIf";
 // import PurchasedItem from "./9.Conditional_Rendering/3.usingTernary";
-import DontPutZero from "./9.Conditional_Rendering/4.DontPutZero";
+// import DontPutZero from "./9.Conditional_Rendering/4.DontPutZero";
+import AllItems from "./9.Conditional_Rendering/TryOutSomeChallenges/1";
 function App() {
   return (
     <>
-    <DontPutZero/>
+    <AllItems/>
     </>
   );
 }
