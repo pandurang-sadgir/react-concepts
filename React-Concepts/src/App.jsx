@@ -27,11 +27,12 @@ import "./App.css";
 // import Profile from "./8.Passing_props_to_component/TryoutSomeChallenges/2/passingJSXasChildProp";
 // import ListOfItems from "./9.Conditional_Rendering/1";
 // import PurchasedItems from "./9.Conditional_Rendering/2UsingIf";
-import PurchasedItem from "./9.Conditional_Rendering/3.usingTernary";
+// import PurchasedItem from "./9.Conditional_Rendering/3.usingTernary";
+import DontPutZero from "./9.Conditional_Rendering/4.DontPutZero";
 function App() {
   return (
     <>
-    <PurchasedItem/>
+    <DontPutZero/>
     </>
   );
 }
