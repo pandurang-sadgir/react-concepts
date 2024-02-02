@@ -32,7 +32,8 @@ import "./App.css";
 // import AllItems from "./9.Conditional_Rendering/TryOutSomeChallenges/1";
 // import SplittingList from "./10.Rendering__List/TryoutChallenges/1";
 // import SplittingList from "./10.Rendering__List/TryoutChallenges/2";
-import RecipeList from "./10.Rendering__List/TryoutChallenges/3";
+// import RecipeList from "./10.Rendering__List/TryoutChallenges/3";
+import RecipeList from "./10.Rendering__List/TryoutChallenges/4";
 
 function App() {
   return (
