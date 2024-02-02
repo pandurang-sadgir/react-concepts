@@ -67,6 +67,18 @@ img{
   margin-left: 1rem;
 }
 
+ul li {
+  list-style-type: none;
+  line-height: 3rem ;
+  margin-bottom: 1rem;
+
+  display: flex;
+  
+}
+ul li img{
+  margin-right: 0.7rem;
+}
+
 
 /* Most import media query logic to theme change */
 /* @media (prefers-color-scheme: light) {
