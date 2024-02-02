@@ -46,9 +46,9 @@ export default function RecipeList() {
   return (
     <div>
       <h1>Recipes</h1>
-        {/* We spread out object here */}
+      {/* We spread out object here  and return Component from map*/}
       {recipes.map((recipe) => (
-        <Recipe {...recipe} key={recipe.id}/>
+        <Recipe {...recipe} key={recipe.id} />
       ))}
     </div>
   );
