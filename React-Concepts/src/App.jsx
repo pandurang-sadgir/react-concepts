@@ -31,12 +31,13 @@ import "./App.css";
 // import DontPutZero from "./9.Conditional_Rendering/4.DontPutZero";
 // import AllItems from "./9.Conditional_Rendering/TryOutSomeChallenges/1";
 // import SplittingList from "./10.Rendering__List/TryoutChallenges/1";
-import SplittingList from "./10.Rendering__List/TryoutChallenges/2";
+// import SplittingList from "./10.Rendering__List/TryoutChallenges/2";
+import RecipeList from "./10.Rendering__List/TryoutChallenges/3";
 
 function App() {
   return (
     <>
-    <SplittingList/>
+    <RecipeList/>
     </>
   );
 }
