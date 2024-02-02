@@ -30,7 +30,9 @@ import "./App.css";
 // import PurchasedItem from "./9.Conditional_Rendering/3.usingTernary";
 // import DontPutZero from "./9.Conditional_Rendering/4.DontPutZero";
 // import AllItems from "./9.Conditional_Rendering/TryOutSomeChallenges/1";
-import SplittingList from "./10.Rendering__List/TryoutChallenges/1";
+// import SplittingList from "./10.Rendering__List/TryoutChallenges/1";
+import SplittingList from "./10.Rendering__List/TryoutChallenges/2";
+
 function App() {
   return (
     <>
