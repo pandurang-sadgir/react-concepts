@@ -33,12 +33,13 @@ import "./App.css";
 // import SplittingList from "./10.Rendering__List/TryoutChallenges/1";
 // import SplittingList from "./10.Rendering__List/TryoutChallenges/2";
 // import RecipeList from "./10.Rendering__List/TryoutChallenges/3";
-import RecipeList from "./10.Rendering__List/TryoutChallenges/4";
+// import RecipeList from "./10.Rendering__List/TryoutChallenges/4";
+import TeaSet from "./11.Keeping__Component_pure/1";
 
 function App() {
   return (
     <>
-    <RecipeList/>
+    <TeaSet/>
     </>
   );
 }
